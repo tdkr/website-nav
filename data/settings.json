@@ -1,5 +1,6 @@
 {
-  "favicon": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/logo.png",
+  "__favicon": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/logo.png",
+  "favicon": "https://github.com/tdkr/webnav/blob/main/src/assets/logo.png",
   "homeUrl": "https://nav3.cn",
   "language": "zh-CN",
   "loading": "random",
